@@ -1,16 +1,16 @@
-<!-- Banner Image -->
+<!-- Banner -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="85%" alt="Animated coding banner" />
 </p>
 
-<h1 align="center">👋🏾 Hi, I'm Ebenezer Gasonoo</h1>
+<h1 align="center">👋🏾 Hi, I’m Ebenezer Gasonoo</h1>
 
 <p align="center">
   🎮 Full Stack Developer • 🧠 Problem Solver • 🌍 Builder from Tema, Ghana
 </p>
 
 <p align="center">
-  <i>“I don’t just write code — I build ideas into reality.”</i>
+  <i>Turning ideas into tools, platforms, and experiences.</i>
 </p>
 
 ---
@@ -24,18 +24,18 @@
 
 ## 👨🏾‍💻 About Me
 
-I’m a curious, self-driven developer passionate about building **useful, creative, and meaningful digital experiences**. From Ghana’s growing tech ecosystem to the global web, I focus on creating tools, platforms, and games that help people **learn, connect, and enjoy technology**.
+I’m a self-driven developer focused on building **practical, creative, and impactful digital solutions**. I work across web development, game technology, and data-driven systems—always with the goal of solving real problems and creating meaningful user experiences.
 
-I enjoy working at the intersection of **logic and creativity** — whether that’s crafting clean user interfaces, analyzing data trends, or designing interactive game worlds. With experience spanning **web development**, **game media**, and **data-driven thinking**, I value being adaptable in a fast-moving tech world.
+From Ghana’s growing tech ecosystem to the global developer space, I enjoy blending **logic, creativity, and strategy**. Whether I’m designing interfaces, building backend systems, or experimenting with interactive game mechanics, I approach every project with intention and curiosity.
 
 ---
 
-## 🚀 What I’m Focused On Right Now
+## 🚀 Current Focus
 
-- 📊 Applying **Data Analysis** to real-world problems  
-- 🕹️ Building games and interactive experiences with **Dumsor Games Studio**  
-- 🌍 Supporting and growing **African tech & gaming communities**  
-- ✍🏾 Writing and contributing to **Gasbros Gaming Network (GGN)**
+- 📊 Applying **Data Analysis** to real-world use cases  
+- 🕹️ Building games and interactive projects under **Dumsor Games Studio**  
+- 🌍 Supporting **African tech and gaming communities**  
+- ✍🏾 Writing and contributing to **Gasbros Gaming Network (GGN)**  
 
 ---
 
@@ -61,12 +61,35 @@ I enjoy working at the intersection of **logic and creativity** — whether that
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EbenezerGasonoo&show_icons=true&theme=dark&bg_color=0d1117&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EbenezerGasonoo&theme=dark&background=0d1117" width="48%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=EbenezerGasonoo&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+    width="49%"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=EbenezerGasonoo&theme=github-dark&hide_border=true"
+    width="49%"
+    alt="GitHub streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbenezerGasonoo&layout=compact&theme=dark&bg_color=0d1117" width="48%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbenezerGasonoo&layout=compact&theme=github_dark&hide_border=true"
+    width="45%"
+    alt="Top languages"
+  />
+</p>
+
+---
+
+## 📊 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=EbenezerGasonoo&theme=github-dark&hide_border=true"
+    alt="GitHub contribution graph"
+  />
 </p>
 
 ---
@@ -84,4 +107,6 @@ I enjoy working at the intersection of **logic and creativity** — whether that
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="140" />
 </p>
 
-<p align="center"><b>Building the future — one thoughtful line of code at a time.</b></p>
+<p align="center">
+  <b>Building the future — one thoughtful line of code at a time.</b>
+</p>
